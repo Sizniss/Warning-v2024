@@ -1,0 +1,9 @@
+name: Warning
+version: '1.0.0'
+main: kr.sizniss.warning.Warning
+api-version: 1.19
+author: [ DSelon ]
+description: Minecraft server warnings plugin
+commands:
+  warn:
+    description: Main command of this plugin.
